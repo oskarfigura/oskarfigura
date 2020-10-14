@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Oskar Figura 👋
 
 <!--
 **oskarfigura/oskarfigura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working as a Software Engineer
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github-readme-stats.vercel.app/api?username=oskarfigura&show_icons=true&theme=dracula&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oskarfigura&show_icons=true&theme=dracula&count_private=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oskarfigura&layout=compact&show_icons=true&theme=dracula&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskarfigura&layout=compact&show_icons=true&theme=dracula&count_private=true" />
+</a>
