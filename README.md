@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a full stack Software Engineer.
 - 🌱 I’m currently learning Spanish and mastering React.
-- 👯 I’m looking to collaborate on a project that can help tackle climate change.
+- 👯 I’m looking for a contracting opportunity
 - 💬 Ask me about anything software related.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oskarfigura/ "Oskar Figura's LinkedIn")
 <!--
